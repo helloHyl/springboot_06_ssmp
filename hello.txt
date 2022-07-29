@@ -1,4 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello world
 hello hyl!
-master
+hello hyl
+wo yao kao xiamenligong
